@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "barbaria",
+    "name": "Barbaria",
+    "description": "The official mod by Eldarion",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Eldarion"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
